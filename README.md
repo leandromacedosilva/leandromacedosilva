@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromacedosilva&layout=compact&langs_count=6&theme=tokyonight"/>
   </div>
   <div align="left">
-  <img src="https://api.visitorbadge.io/api/visitors?path=leandromacedosilva&labelColor=%23333333&countColor=%23527bbf&labelStyle=upper&label=Visitantes" alt="Contador de Visitas do Perfil no Github do Leandro" height="50px" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=leandromacedosilva&labelColor=%23333333&countColor=%23527bbf&labelStyle=upper&label=Visitantes" alt="Contador de Visitas do Perfil no Github do Leandro" height="30px" />
   </div>
   <strong>Competências</strong>(estudando)
   
