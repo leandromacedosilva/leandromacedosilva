@@ -1,4 +1,35 @@
-  <strong>Hello, i am Leandro, an WEB programmer.</strong>
+  <style>
+    /* DEMO-SPECIFIC STYLES */
+  .typewriter h1 {
+  color: #fff;
+  font-family: monospace;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 3.5s steps(30, end),
+    blink-caret .5s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange }
+}
+  </style>
+
+  <div class="typewriter">
+  <h1>Hello, i am Leandro, an WEB programmer.</h1>
+  </div>
+  <!--<strong>Hello, i am Leandro, an WEB programmer.</strong>-->
   <!--<div align="center">
   <a href="https://github.com/leandromacedosilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandromacedosilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
